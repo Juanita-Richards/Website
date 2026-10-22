@@ -1,3 +1,3 @@
 ## This is my personal website
 
-Link: https://juanita-benjamin.github.io/Website/
+Link: https://juanita-richards.github.io/Website/
