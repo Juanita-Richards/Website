@@ -3,30 +3,35 @@
  // project: 1 through 6 matches the numbered cards on Portfolio.html.
  // Only projects with a configured video display a player; no preview cover is shown.
 
+
+ // Configure one optional playable video per project (cards 1 through 6).
+ // Use youtubeId OR youtubeUrl for YouTube, or src for a hosted MP4.
+ // No upload or backend is needed for YouTube videos.
+
 window.portfolioVideos = [
-  // Upload Files/Videos/assembly-demo.mp4 first, then uncomment this block:
+  {
+    project: 1,
+    title: "Assembly Skill Transfer in Virtual Reality",
+    youtubeId: "MdsXYkrtZjw",
+    caption: "VR research demonstration"
+  },
+
+  // Example of a second YouTube video:
   // {
-  //   project: 1,
-  //   title: "VR Assembly Transfer Study",
-  //   src: "Files/Videos/assembly-demo.mp4",
-  //   type: "video/mp4",
-  //   caption: "A demonstration of the hand-tracking and controller conditions."
+  //   project: 3,
+  //   youtubeUrl: "https://youtu.be/YOUR_VIDEO_ID",
+  //   title: "AR demonstration"
   // },
 
-  // To add a video to the motion tracking project:
+  // Example of an MP4 hosted in your GitHub repository:
   // {
   //   project: 2,
   //   src: "Files/Videos/motion-tracking.mp4",
-  //   caption: "Motion tracking demonstration."
-  // },
-
-  // YouTube alternative:
-  // {
-  //   project: 3,
-  //   youtubeId: "YOUTUBE_VIDEO_ID",
-  //   title: "AR Research Demo"
+  //   type: "video/mp4",
+  //   caption: "Motion tracking demo"
   // }
 ];
+
 
 
 // How to use them
