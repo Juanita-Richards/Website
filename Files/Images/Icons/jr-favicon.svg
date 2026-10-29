@@ -1,5 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
-  <rect x="2" y="2" width="124" height="124" rx="25" fill="#ffffff"/>
-  <text x="18" y="88" font-family="Georgia,serif" font-size="76" font-weight="bold" letter-spacing="-10" fill="#2d72b8">JR</text>
-  <text x="96" y="103" font-family="Georgia,serif" font-size="29" fill="#d6a64f">✦</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128"><rect width="128" height="128" rx="24" fill="#FAF9F6"/><text x="19" y="91" font-family="Georgia, Times New Roman, serif" font-size="79" font-weight="bold" letter-spacing="-10" fill="#252B31">JR</text><path d="M100 16L104 27 115 31 104 35 100 46 96 35 85 31 96 27Z" fill="#A98753"/></svg>
