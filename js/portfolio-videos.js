@@ -24,12 +24,12 @@ window.portfolioVideos = [
   // },
 
   // Example of an MP4 hosted in your GitHub repository:
-  // {
-  //   project: 2,
-  //   src: "Files/Videos/motion-tracking.mp4",
-  //   type: "video/mp4",
-  //   caption: "Motion tracking demo"
-  // }
+  {
+    project: 2,
+    src: "Files/CoDVR Tasks.gif",
+    type: "gif",
+    caption: "Motion tracking demo"
+  }
 ];
 
 
