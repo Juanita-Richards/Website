@@ -7,17 +7,19 @@ const researchDemos = [
     title: 'VR Assembly Transfer Study',
     category: 'Virtual reality · Learning transfer',
     description: 'Comparing hand tracking, controllers, and observation conditions for learning transfer in immersive assembly tasks.',
-    youtubeId: 'MdsXYkrtZjw'
+    youtubeId: 'nXTqX8TREGY'
   },
   {
     title: 'Motion Tracking & Behavioral Data',
     category: 'Unity · Data collection',
-    description: 'Collecting spatial and motion tracking data for XR experiments.'
+    description: 'Collecting spatial and motion tracking data for XR experiments.',
+    gif: "Files/CoDVR Tasks.gif"
   },
   {
     title: 'AR Spatial Interaction',
     category: 'Augmented reality · Perception',
-    description: 'Research demonstrations investigating virtual content and spatial perception.'
+    description: 'Research demonstrations investigating virtual content and spatial perception.',
+    youtubeId:'nXTqX8TREGY'
   }
 ];
 

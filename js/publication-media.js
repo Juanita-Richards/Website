@@ -9,9 +9,9 @@
 window.publicationMedia = {
   1: { src: "Files/Images/CulturalReflections.png", alt: "Avatar embodiment research demo"  },
   2: { src: "Files/Images/ARAnimals.png", alt: "Outdoor AR study demo"},
-  3: { src: "Files/Images/percep_motivatiton.png", alt: "Virtual human installation demo"},
-  4: { /* src: "Files/Images/Publications/self-avatar.gif", alt: "AR self-avatar research demo" */ },
-  5: { /* src: "Files/Images/Publications/skeleton-vr.gif", alt: "SkeletonVR puzzle demonstration" */ }
+  3: { src: "Files/Images/percep_motivation.png", alt: "Virtual human installation demo"},
+  4: { src: "Files/Images/OpticalSeeThrough.png", alt: "AR self-avatar research demo"},
+  5: { src: "Files/Images/SkeletonVR.png", alt: "SkeletonVR puzzle demonstration" }
 };
 
 (function () {
