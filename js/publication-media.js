@@ -7,11 +7,13 @@
 // Upload files to Files/Images/Publications/ in your GitHub Website repository.
 
 window.publicationMedia = {
-  1: { src: "Files/Images/CulturalReflections.png", alt: "Avatar embodiment research demo"  },
-  2: { src: "Files/Images/ARAnimals.png", alt: "Outdoor AR study demo"},
-  3: { src: "Files/Images/percep_motivation.png", alt: "Virtual human installation demo"},
-  4: { src: "Files/Images/OpticalSeeThrough.png", alt: "AR self-avatar research demo"},
-  5: { src: "Files/Images/SkeletonVR.png", alt: "SkeletonVR puzzle demonstration" }
+  1:{ src: "Files/Images/CulturalReflections.png", alt: "Avatar embodiment research demo"  },
+  2: { src: "Files/Images/CoDVR Tasks.gif", alt: "Avatar embodiment research demo"  },
+  3: { src: "Files/Images/ARAnimals.png", alt: "Outdoor AR study demo"},
+  4: { src: "Files/Images/percep_motivation.png", alt: "Virtual human installation demo"},
+  5: { src: "Files/Images/OpticalSeeThrough.png", alt: "AR self-avatar research demo"},
+  6: { src: "Files/Images/SkeletonVR.png", alt: "SkeletonVR puzzle demonstration" },
+  7: {src: "Files/Images/precue-Teaser.png", alt: "precue image"}
 };
 
 (function () {
