@@ -1,5 +1,13 @@
 
 const papers = [
+    {
+    title: "Bortner-Measured Behavioral Tendencies and Performance Across Constructive and Destructive Virtual Reality Tasks",
+    authors: "Juanita Richards, Alex T Da Vera Cruz, Lorance Lisle, Ryan P. McMahan",
+    venue: "Under review",
+    year: "2026",
+    kind: "conference",
+    url: ""
+  },
   {
     title: "Cultural Reflections in Virtual Reality: The Effects of User Ethnicity in Avatar Matching Experiences on Sense of Embodiment",
     authors: "Tiffany D. Do, Juanita Benjamin, Camille Isabella Protko, Ryan P. McMahan",

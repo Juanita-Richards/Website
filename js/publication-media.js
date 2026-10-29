@@ -7,9 +7,9 @@
 // Upload files to Files/Images/Publications/ in your GitHub Website repository.
 
 window.publicationMedia = {
-  1: { /* src: "Files/Images/Publications/cultural-reflections.gif", alt: "Avatar embodiment research demo" */ },
-  2: { /* src: "Files/Images/Publications/outdoor-ar.gif", alt: "Outdoor AR study demo" */ },
-  3: { /* src: "Files/Images/Publications/virtual-humans.gif", alt: "Virtual human installation demo" */ },
+  1: { src: "Files/Images/CulturalReflections.png", alt: "Avatar embodiment research demo"  },
+  2: { src: "Files/Images/ARAnimals.png", alt: "Outdoor AR study demo"},
+  3: { src: "Files/Images/percep_motivatiton.png", alt: "Virtual human installation demo"},
   4: { /* src: "Files/Images/Publications/self-avatar.gif", alt: "AR self-avatar research demo" */ },
   5: { /* src: "Files/Images/Publications/skeleton-vr.gif", alt: "SkeletonVR puzzle demonstration" */ }
 };
@@ -70,7 +70,7 @@ window.publicationMedia = {
     block.className = 'paper-media-placeholder';
 
     const mark = document.createElement('span');
-    mark.textContent = 'JR ✦';
+    mark.textContent = 'JR✦';
 
     const label = document.createElement('small');
     label.textContent = 'Research visual';
